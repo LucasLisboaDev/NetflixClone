@@ -9,7 +9,13 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.NetflixClone">
+<<<<<<< Updated upstream
         <activity android:name=".FormCadastro"></activity>
+=======
+        <activity android:name=".DetalhesFilme"></activity>
+        <activity android:name=".ListaFilmesKotlin" />
+        <activity android:name=".FormCadastro" />
+>>>>>>> Stashed changes
         <activity android:name=".FormLogin" />
         <activity android:name=".MainActivity">
             <intent-filter>
